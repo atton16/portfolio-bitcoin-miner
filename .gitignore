@@ -13,7 +13,6 @@
 ##	Ae
 *.log
 *.o
-*.tree
 *.d
 **/*.runs
 **/*.cache
