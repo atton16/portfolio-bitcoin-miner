@@ -1,0 +1,6 @@
+20:42:15 **** Incremental Build of configuration Debug for project SHA256_SW ****
+make all 
+make: Nothing to be done for `all'.
+
+20:42:15 Build Finished (took 375ms)
+
